@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "opensap.movies.movies",
+        "description": "Browse Movies",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#movies-Display",
+        "navigationComponentName": "opensap.movies",
+        "intentSemanticObject": "movies",
+        "intentAction": "Display",
+        "html5ApplicationName": "movies",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "d74f93d9-9470-4bb2-9279-8271e65f4492"
+        ],
+        "contentPackages": [
+            "57c983f7-5079-4c7e-9c56-fadc1bd21db6"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Movies",
+        "subtitle": "Browse movies",
+        "searchKeywords": "Movies,Browse movies",
+        "displayIconUrl": "sap-icon://attachment-video",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
